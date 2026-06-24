@@ -47,6 +47,32 @@
 
 ---
 
+$ noe agent --status
+
+---
+
+AGENT LAYER — ACTIVE
+────────────────────────────────────
+✓ Deep Research Engine      running
+✓ Persistent Memory         running
+✓ Proactive Insights        running
+✓ Voice & Tool Integration  running
+✓ Self-Hosting Mode         ready
+✓ Groq Inference            running
+
+---
+
+### Core Capabilities
+
+• Deep Research & Tool Use
+• Senior-Level Coding & Analysis
+• Mood-Aware Personality
+• Long-Term Memory System
+• Self-Hostable & Encrypted
+• $NOE Token Utility Coming Soon
+
+---
+
 ###  Quick Links
 
 <div align="center">
@@ -64,6 +90,13 @@
 ###  License
 
 **MIT License** — Free to use, modify, and self-host.
+
+---
+
+git clone https://github.com/noeresearch/noe-research.git
+cd noe-research
+npm install
+npm run dev
 
 ---
 
