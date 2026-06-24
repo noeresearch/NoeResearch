@@ -9,7 +9,7 @@
     A mood-aware • memory-powered • truly human-like AI research companion.
   </p>
 
-  <a href="https://noe-research-9m78.vercel.app">
+  <a href="https://noeresearch.xyz">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
   <a href="https://x.com/noeresearch">
