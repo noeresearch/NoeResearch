@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/noeresearch/noe-research/main/public/banner-noe.png" alt="Noe Research Banner" width="100%" style="border-radius: 12px;">
-  
-  <br><br>
-  
-  <h1>Noe Research</h1>
-  <p><strong>Intelligence That Trades For You</strong></p>
-</div>
+  <img src="https://raw.githubusercontent.com/noeresearch/noe-research/main/public/logo-noe.png" width="220" alt="Noe Research">
   
   <h1>Noe Research</h1>
   
@@ -15,7 +9,7 @@
     A mood-aware • memory-powered • truly human-like AI research companion.
   </p>
 
-  <a href="https://noeresearch.xyz">
+  <a href="https://noe-research-9m78.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
   </a>
   <a href="https://x.com/noeresearch">
