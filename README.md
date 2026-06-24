@@ -1,8 +1,8 @@
-<div align="center">
-
-<img src="https://iili.io/CuRqHWN.jpg" width="100%" alt="Noe Research Banner">
-
-<h1>Noe Research</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noeresearch/NoeResearch/main/banner.png" 
+       width="70%" 
+       alt="Noe Research">
+</p>
 
 <p><strong>Your favorite researcher, online.</strong></p>
 <p>A mood-aware • memory-powered • truly human-like AI research companion.</p>
