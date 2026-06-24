@@ -1,28 +1,41 @@
-<p align="center">
-  <img src="https://iili.io/CuRqHWN.jpg" 
-       width="550" 
-       alt="Noe Research Banner">
-</p>
+<div align="center">
 
-# Noe Research
+<img src="https://iili.io/CuRHDZX.jpg" width="20%" alt="Noe Research Banner">
 
-**Your favorite researcher, online.**
+<h1>Noe Research</h1>
 
-A mood-aware • memory-powered • truly human-like AI research companion.
+<p><strong>Your favorite researcher, online.</strong></p>
+<p>A mood-aware • memory-powered • truly human-like AI research companion.</p>
 
----
+<br>
 
-### Tech Stack
+<a href="https://x.com/noeresearch">
+  <img src="https://img.shields.io/badge/FOLLOW_%40NOERESEARCH-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X">
+</a>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
-![Next.js](https://img.shields.io/badge/Next.js-14-black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-06B6D4)
-![Groq](https://img.shields.io/badge/Groq-FF0000)
-![Llama 3.3](https://img.shields.io/badge/Llama-3.3-blue)
+</div>
+
+<br>
 
 ---
 
-### Features
+###  Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
+<img src="https://img.shields.io/badge/Groq-Llama_3.3-00A3FF?style=for-the-badge&logo=groq&logoColor=white" alt="Groq">
+
+<img src="https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge" alt="MIT License">
+
+</div>
+
+---
+
+###  Features
 
 - 🧠 **Persistent Memory** (ingat semua percakapan & preferensi)
 - 🔍 **Deep Research & Tool Use**
@@ -34,16 +47,29 @@ A mood-aware • memory-powered • truly human-like AI research companion.
 
 ---
 
-### Quick Links
+###  Quick Links
 
-- [Follow @NoeResearch](https://x.com/noeresearch)
-- [Demo / Try Now](#)
-- [Documentation](#)
+<div align="center">
+
+[![Live Website](https://img.shields.io/badge/🌐_LIVE_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://noeresearch.xyz)
+
+[![Chat with Noe](https://img.shields.io/badge/💬_CHAT_WITH_NOE-000000?style=for-the-badge)](https://noeresearch.xyz)
+
+[![Follow on X](https://img.shields.io/badge/🐦_FOLLOW_ON_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/noeresearch)
+
+</div>
 
 ---
+
+###  License
 
 **MIT License** — Free to use, modify, and self-host.
 
 ---
 
+<div align="center">
+
+**Intelligence That Trades For You**<br>
 Built with researchers who want more than just a chatbot.
+
+</div>
