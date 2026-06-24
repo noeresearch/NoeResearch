@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://iili.io/CuRHDZX.jpg" width="100%" alt="Noe Research Banner">
+<img src="https://iili.io/CuRqHWN.jpg" width="20%" alt="Noe Research Banner">
 
 <h1>Noe Research</h1>
 
