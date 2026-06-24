@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/noeresearch/noe-research/main/public/logo-noe.png" width="220" alt="Noe Research">
+  <img src="https://raw.githubusercontent.com/noeresearch/noe-research/main/public/banner-noe.png" alt="Noe Research Banner" width="100%" style="border-radius: 12px;">
+  
+  <br><br>
+  
+  <h1>Noe Research</h1>
+  <p><strong>Intelligence That Trades For You</strong></p>
+</div>
   
   <h1>Noe Research</h1>
   
